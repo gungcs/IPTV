@@ -191,131 +191,131 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 スターチャンネル3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 马来西亚,#genre#
-MY001:TV 1,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1734
-MY002:TV 2,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1733
-MY003:TV 3,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1732
-MY004:NTV 7,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1731
-MY005:TV 8,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1730
-MY006:TV 9,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1729
-MY007:QUAN JIA,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1728
-MY008:SHUANG XING,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1727
-MY009:Wah Lai Toi,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1726
-MY010:HUA HEE DAI,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1725
-MY011:AOD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1724
-MY012:AEC,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1723
-MY013:Super Sport 1,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1722
-MY014:Super Sport 2,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1721
-MY015:Super Sport 3,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1720
-MY016:Super Sport 4,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1719
-MY022:Super Sport 5,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1713
-MY043:ASTRO ASSP4 HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/59217
-MY042:ASTRO ASSP3 HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/59218
-MY040:ASTRO ASSP HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/59220
-MY041:ASTRO ASSP2 HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/59219
-MY107:Astro SuperSport Events 6,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71079
-MY133:Astro Premier 2,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71105
-MY136:ASTRO Rugby Pass,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71108
-MY137:ASTRO Cricket,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71109
-MY177:Astro SuperSport Events 3,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71146
-MY108:ASTRO Ceria,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71080
-MY057:ASTRO Colors Tamil,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71035
-MY056:ASTRO Star Vijay,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71034
-MY054:ASTRO Zee Tamil,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71032
-MY053:ASTRO Adithya,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71031
-MY017:CELESTIAL,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1718
-MY018:BERNAMA,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1717
-MY020:Star Chinese Channel,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1715
-MY021:XIAO TAI YANG,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1714
-MY023:TVB CLASSIC,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1712
-MY029:WARNA,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1706
-MY030:RIA,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1705
-MY031:AWANI,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1704
-MY034:OASIS,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1701
-MY082:Singapore Channel 8,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71054
-MY035:Singapore Suria,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1700
-MY036:Singapore Vasantham,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1699
-MY151:sukan,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71123
-MY037:WWE,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1698
-MY038:BOO,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1697
-MY042:Ria,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71020
-MY043:Awesome TV,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71021
-MY046:TV ALHIJRAH,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71024
-MY047:aura,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71025
-MY048:Astro Premier 1,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71026
-MY049:KBSW,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71027
-MY050:GO SHOP,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71028
-MY051:Sun Music,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71029
-MY052:TUTOR TV SK,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71030
-MY055:Star Vijay Super,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71033
-MY058:SUN TV HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71036
-MY059:HBO Hits,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71037
-MY060:iQIYI HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71038
-MY061:GO SHOP 2,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71039
-MY067:TVB JADE,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71040
-MY069:CTI Asia,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71042
-MY070:TVB E-NEWS,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71043
-MY071:TVB XING HE HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71044
-MY072:TVBS ASIA HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71045
-MY073:CCM,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71046
-MY075:CCTV4 HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71047
-MY076:AOD 352 HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71048
-MY077:AOD 353 HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71049
-MY078:AOD 354 HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71050
-MY079:AOD 355 HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71051
-MY080:KBS World HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71052
-MY081:ONE HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71053
-MY083:TVN HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71055
-MY084:Hits Movies HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71056
-MY086:Cinemax HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71058
-MY087:TVN Movies,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71059
-MY088:OKEY TV,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71060
-MY089:Moonbug Kids,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71061
-MY091:AL JAZEERA HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71063
-MY092:SKY NEWS HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71064
-MY093:CNA HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71065
-MY094:CNBC,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71066
-MY095:Bloomberg TV,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71067
-MY096:ABC AUSTRALIA,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71068
-MY097:8TV,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71069
-MY099:Discovery HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71071
-MY100:DISCOVERY ASIA,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71072
-MY101:Discovery Science,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71073
-MY102:HISTORY HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71074
-MY103:ANIMAL PLANET HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71075
-MY104:TUTOR TV UPSR,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71076
-MY106:TUTOR TV SMK,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71078
-MY112:Cartoon Network,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71084
-MY113:NICKELODEON HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71085
-MY114:NICK JR,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71086
-MY115:AXN HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71087
-MY116:Phoenix,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71088
-MY117:HITS HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71089
-MY118:TLC HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71090
-MY119:FOOD NTWK HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71091
-MY120:AFN HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71092
-MY122:WARNER TV,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71094
-MY123:Crime Investigation,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71095
-MY124:HGTV HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71096
-MY125:DMAX HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71097
-MY126:COMEDY CENTRAL,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71098
-MY127:MTV,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71099
-MY128:ANIMAX,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71100
-MY129:bEIN Sports 3,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71101
-MY132:beIN SPORTS,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71104
-MY134:EUROSPORT HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71106
-MY135:GOLF CHANNEL HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71107
-MY139:KPLUS HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71111
-MY140:DW HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71112
-MY141:FRANCE24 HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71113
-MY146:beIN Sports 2,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71118
-MY147:BBC Earth HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71119
-MY148:BBC Lifestyle,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71120
-MY150:BBC World News,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71122
-MY164:Paramount Channel,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71135
-MY166:Global Trekker,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71137
-MY168:SCM,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71138
-MY169:SETi Chinese,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71139
-MY178:SPOTV,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71147
-MY179:TVS,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71148
-MY180:Awesome TV,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71149
-MY019:Kix HD,http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1716
+MY001:TV 1,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1734
+MY002:TV 2,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1733
+MY003:TV 3,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1732
+MY004:NTV 7,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1731
+MY005:TV 8,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1730
+MY006:TV 9,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1729
+MY007:QUAN JIA,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1728
+MY008:SHUANG XING,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1727
+MY009:Wah Lai Toi,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1726
+MY010:HUA HEE DAI,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1725
+MY011:AOD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1724
+MY012:AEC,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1723
+MY013:Super Sport 1,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1722
+MY014:Super Sport 2,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1721
+MY015:Super Sport 3,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1720
+MY016:Super Sport 4,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1719
+MY022:Super Sport 5,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1713
+MY043:ASTRO ASSP4 HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/59217
+MY042:ASTRO ASSP3 HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/59218
+MY040:ASTRO ASSP HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/59220
+MY041:ASTRO ASSP2 HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/59219
+MY107:Astro SuperSport Events 6,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71079
+MY133:Astro Premier 2,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71105
+MY136:ASTRO Rugby Pass,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71108
+MY137:ASTRO Cricket,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71109
+MY177:Astro SuperSport Events 3,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71146
+MY108:ASTRO Ceria,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71080
+MY057:ASTRO Colors Tamil,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71035
+MY056:ASTRO Star Vijay,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71034
+MY054:ASTRO Zee Tamil,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71032
+MY053:ASTRO Adithya,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71031
+MY017:CELESTIAL,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1718
+MY018:BERNAMA,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1717
+MY020:Star Chinese Channel,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1715
+MY021:XIAO TAI YANG,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1714
+MY023:TVB CLASSIC,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1712
+MY029:WARNA,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1706
+MY030:RIA,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1705
+MY031:AWANI,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1704
+MY034:OASIS,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1701
+MY082:Singapore Channel 8,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71054
+MY035:Singapore Suria,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1700
+MY036:Singapore Vasantham,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1699
+MY151:sukan,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71123
+MY037:WWE,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1698
+MY038:BOO,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1697
+MY042:Ria,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71020
+MY043:Awesome TV,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71021
+MY046:TV ALHIJRAH,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71024
+MY047:aura,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71025
+MY048:Astro Premier 1,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71026
+MY049:KBSW,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71027
+MY050:GO SHOP,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71028
+MY051:Sun Music,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71029
+MY052:TUTOR TV SK,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71030
+MY055:Star Vijay Super,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71033
+MY058:SUN TV HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71036
+MY059:HBO Hits,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71037
+MY060:iQIYI HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71038
+MY061:GO SHOP 2,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71039
+MY067:TVB JADE,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71040
+MY069:CTI Asia,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71042
+MY070:TVB E-NEWS,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71043
+MY071:TVB XING HE HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71044
+MY072:TVBS ASIA HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71045
+MY073:CCM,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71046
+MY075:CCTV4 HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71047
+MY076:AOD 352 HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71048
+MY077:AOD 353 HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71049
+MY078:AOD 354 HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71050
+MY079:AOD 355 HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71051
+MY080:KBS World HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71052
+MY081:ONE HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71053
+MY083:TVN HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71055
+MY084:Hits Movies HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71056
+MY086:Cinemax HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71058
+MY087:TVN Movies,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71059
+MY088:OKEY TV,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71060
+MY089:Moonbug Kids,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71061
+MY091:AL JAZEERA HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71063
+MY092:SKY NEWS HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71064
+MY093:CNA HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71065
+MY094:CNBC,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71066
+MY095:Bloomberg TV,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71067
+MY096:ABC AUSTRALIA,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71068
+MY097:8TV,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71069
+MY099:Discovery HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71071
+MY100:DISCOVERY ASIA,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71072
+MY101:Discovery Science,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71073
+MY102:HISTORY HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71074
+MY103:ANIMAL PLANET HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71075
+MY104:TUTOR TV UPSR,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71076
+MY106:TUTOR TV SMK,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71078
+MY112:Cartoon Network,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71084
+MY113:NICKELODEON HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71085
+MY114:NICK JR,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71086
+MY115:AXN HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71087
+MY116:Phoenix,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71088
+MY117:HITS HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71089
+MY118:TLC HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71090
+MY119:FOOD NTWK HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71091
+MY120:AFN HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71092
+MY122:WARNER TV,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71094
+MY123:Crime Investigation,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71095
+MY124:HGTV HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71096
+MY125:DMAX HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71097
+MY126:COMEDY CENTRAL,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71098
+MY127:MTV,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71099
+MY128:ANIMAX,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71100
+MY129:bEIN Sports 3,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71101
+MY132:beIN SPORTS,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71104
+MY134:EUROSPORT HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71106
+MY135:GOLF CHANNEL HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71107
+MY139:KPLUS HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71111
+MY140:DW HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71112
+MY141:FRANCE24 HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71113
+MY146:beIN Sports 2,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71118
+MY147:BBC Earth HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71119
+MY148:BBC Lifestyle,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71120
+MY150:BBC World News,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71122
+MY164:Paramount Channel,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71135
+MY166:Global Trekker,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71137
+MY168:SCM,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71138
+MY169:SETi Chinese,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71139
+MY178:SPOTV,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71147
+MY179:TVS,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71148
+MY180:Awesome TV,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/71149
+MY019:Kix HD,http://muka03.wanicelife.com:8880/3ca715301/sdfr34r34/1716
