@@ -1,5 +1,4 @@
 
-			{
 				"name": "好运来",
 				"type": 0,
 				"url": "http://oy.oyxx-1.eu.org/p3p.php",
@@ -7,5 +6,5 @@
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
-			},
-			
+
+	
