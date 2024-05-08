@@ -1,6 +1,6 @@
 litv影視,#genre#
 parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/210.201.86.72 Safari/537.36
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 4民視第一台,https://www.litv.tv/channel/watch/4gtv-4gtv003
 5民視台灣台,https://www.litv.tv/channel/watch/4gtv-4gtv001
