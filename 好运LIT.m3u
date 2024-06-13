@@ -1,0 +1,178 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/myzzzzzz/tv/master/zzz.xml"
+
+#EXTINF:-1 tvg-id="310" tvg-name="民視台灣台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ftv_tw.png" group-title="🐳-台湾",民視台灣台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="173" tvg-name="民視新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/FTV1.png" group-title="💰-新闻财经",民視新聞台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv002
+#EXTINF:-1 tvg-id="311" tvg-name="民視第一台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ftv_1.png" group-title="🐳-台湾",民視第一台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="361" tvg-name="民視綜藝台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ftv_entertainment.png" group-title="👻-综艺",民視綜藝台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="363" tvg-name="中天新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/CTI2.png" group-title="💰-新闻财经",中天新聞台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv009
+#EXTINF:-1 tvg-id="509" tvg-name="非凡新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ustv.png" group-title="💰-新闻财经",非凡新聞台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv010
+#EXTINF:-1 tvg-id="336" tvg-name="影迷數位電影台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="🥤-影视",影迷數位電影台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv011
+#EXTINF:-1 tvg-id="348" tvg-name="視納華仁紀實頻道" tvg-logo="http://192.168.6.3/tv/TVlogo/img/cnex.png" group-title="🥤-影视",視納華仁紀實頻道
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv013
+#EXTINF:-1 tvg-id="398" tvg-name="時尚運動X" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ssydX.png" group-title="🥇-运动",時尚運動X
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv014
+#EXTINF:-1 tvg-id="498" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile-1.png" group-title="🛰️-人文自然科学",Globetrotter 環遊旅行家
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv016
+#EXTINF:-1 tvg-id="249" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="🥤-影视",amc 電影台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv017
+#EXTINF:-1 tvg-id="196" tvg-name="達文西頻道" tvg-logo="http://192.168.6.3/tv/TVlogo/img/DaVinci.png" group-title="🎒-儿童",達文西頻道
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv018
+#EXTINF:-1 tvg-id="394" tvg-name="八大精彩台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GTV5.png" group-title="🥤-影视",八大精彩台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv034
+#EXTINF:-1 tvg-id="393" tvg-name="八大綜藝台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GTV1.png" group-title="🐳-台湾",八大綜藝台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="256" tvg-name="中視" tvg-logo="http://192.168.6.3/tv/TVlogo/img/CTV.png" group-title="🐳-台湾",中視
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="345" tvg-name="華視" tvg-logo="http://192.168.6.3/tv/TVlogo/img/CTS.png" group-title="🐳-台湾",華視
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="397" tvg-name="公視戲劇" tvg-logo="http://192.168.6.3/tv/TVlogo/img/PTS3.png" group-title="🥤-影视",公視戲劇
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv042
+#EXTINF:-1 tvg-id="391" tvg-name="客家電視台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/Hakka.png" group-title="🐳-台湾",客家電視台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv043
+#EXTINF:-1 tvg-id="317" tvg-name="靖天卡通台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV7.png" group-title="🎒-儿童",靖天卡通台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv044
+#EXTINF:-1 tvg-id="326" tvg-name="靖洋戲劇台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/jy2.png" group-title="🥤-影视",靖洋戲劇台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv045
+#EXTINF:-1 tvg-id="321" tvg-name="靖天綜合台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV1.png" group-title="🐳-台湾",靖天綜合台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv046
+#EXTINF:-1 tvg-id="319" tvg-name="靖天日本台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV6.png" group-title="🐳-台湾",靖天日本台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv047
+#EXTINF:-1 tvg-id="4gtv-4gtv048" tvg-name="非凡商業" group-title="未分类",非凡商業
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv048
+#EXTINF:-1 tvg-id="350" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="🥤-影视",采昌影劇台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv049
+#EXTINF:-1 tvg-id="284" tvg-name="台視新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TTV2.png" group-title="💰-新闻财经",台視新聞台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv051
+#EXTINF:-1 tvg-id="347" tvg-name="華視新聞資訊台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/CTS1.png" group-title="💰-新闻财经",華視新聞資訊台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="399" tvg-name="GINXEsportsTV" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GINXesport.png" group-title="🥇-运动",GINX Esports TV
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv053
+#EXTINF:-1 tvg-id="232" tvg-name="NiceTV靖天歡樂台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV4.png" group-title="👻-综艺",Nice TV 靖天歡樂台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv054
+#EXTINF:-1 tvg-id="320" tvg-name="靖天映畫台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV3.png" group-title="🥤-影视",靖天映畫台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="286" tvg-name="台視財經台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TTV2.png" group-title="💰-新闻财经",台視財經台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv056
+#EXTINF:-1 tvg-id="325" tvg-name="靖洋卡通NiceBingo" tvg-logo="http://192.168.6.3/tv/TVlogo/img/jy1.png" group-title="🎒-儿童",靖洋卡通 Nice Bingo
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv057
+#EXTINF:-1 tvg-id="318" tvg-name="靖天戲劇台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV8.png" group-title="🥤-影视",靖天戲劇台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="475" tvg-name="CLASSICA古典樂" tvg-logo="http://192.168.6.3/tv/TVlogo/img/classical.png" group-title="👻-综艺",CLASSICA 古典樂
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv059
+#EXTINF:-1 tvg-id="324" tvg-name="靖天電影台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV9.png" group-title="🥤-影视",靖天電影台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="322" tvg-name="靖天育樂台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV5.png" group-title="👻-综艺",靖天育樂台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv062
+#EXTINF:-1 tvg-id="222" tvg-name="KLT-靖天國際台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV10.png" group-title="👻-综艺",KLT-靖天國際台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv063
+#EXTINF:-1 tvg-id="259" tvg-name="中視菁采台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/CTV3.png" group-title="🐳-台湾",中視菁采台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv064
+#EXTINF:-1 tvg-id="323" tvg-name="靖天資訊台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoldenTV2.png" group-title="👻-综艺",靖天資訊台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv065
+#EXTINF:-1 tvg-id="515" tvg-name="台視HD" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TTV.png" group-title="🐳-台湾",台視
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="245" tvg-name="TVBS精采台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TVBS2.png" group-title="🐳-台湾",TVBS精采台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv067
+#EXTINF:-1 tvg-id="362" tvg-name="TVBS歡樂台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TVBS2.png" group-title="👻-综艺",TVBS 歡樂台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv068
+#EXTINF:-1 tvg-id="366" tvg-name="愛爾達娛樂台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ELTA3.png" group-title="🐳-台湾",愛爾達娛樂台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="174" tvg-name="TVBS新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TVBS1.png" group-title="💰-新闻财经",TVBS 新聞台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv072
+#EXTINF:-1 tvg-id="175" tvg-name="TVBSHD" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TVBS.png" group-title="💰-新闻财经",TVBS
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv073
+#EXTINF:-1 tvg-id="257" tvg-name="中視新聞" tvg-logo="http://192.168.6.3/tv/TVlogo/img/CTV1.png" group-title="💰-新闻财经",中視新聞
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv074
+#EXTINF:-1 tvg-id="351" tvg-name="鏡電視新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="💰-新闻财经",鏡電視新聞台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv075
+#EXTINF:-1 tvg-id="516" tvg-name="CatchPlay" tvg-logo="http://192.168.6.3/tv/TVlogo/img/CatchPlay1.png" group-title="🥤-影视",CatchPlay
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="241" tvg-name="TraceSportStars" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TraceSport.png" group-title="🥇-运动",Trace Sport Stars
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv077
+#EXTINF:-1 tvg-id="390" tvg-name="ARIRANG阿里郎頻道" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ArirangTV.png" group-title="🐳-台湾",ARIRANG阿里郎頻道
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv079
+#EXTINF:-1 tvg-id="258" tvg-name="中視經典台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/CTV2.png" group-title="🐳-台湾",中視經典台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv080
+#EXTINF:-1 tvg-id="242" tvg-name="TraceUrban" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TraceUrban.png" group-title="👻-综艺",Trace Urban
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv082
+#EXTINF:-1 tvg-id="474" tvg-name="MezzoLiveHD" tvg-logo="http://192.168.6.3/tv/TVlogo/img/mezzolive.png" group-title="👻-综艺",Mezzo Live HD
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv083
+#EXTINF:-1 tvg-id="401" tvg-name="國會頻道1" tvg-logo="http://192.168.6.3/tv/TVlogo/img/guohui1.png" group-title="🐳-台湾",國會頻道1
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv084
+#EXTINF:-1 tvg-id="402" tvg-name="國會頻道2" tvg-logo="http://192.168.6.3/tv/TVlogo/img/guohui2.png" group-title="🐳-台湾",國會頻道2
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv085
+#EXTINF:-1 tvg-id="396" tvg-name="智林體育台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/TSL.png" group-title="🥇-运动",智林體育台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv101
+#EXTINF:-1 tvg-id="126" tvg-name="HOY國際財經台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/76.png" group-title="🇭🇰-香港",HOY 國際財經台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv104
+#EXTINF:-1 tvg-id="168" tvg-name="東森新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/EBC6.png" group-title="💰-新闻财经",東森新聞台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="307" tvg-name="東森財經新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/EBC7.png" group-title="💰-新闻财经",東森財經新聞台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv153
+#EXTINF:-1 tvg-id="173" tvg-name="民視新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/FTV1.png" group-title="💰-新闻财经",民視新聞台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv155
+#EXTINF:-1 tvg-id="310" tvg-name="民視台灣台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ftv_tw.png" group-title="🐳-台湾",民視台灣台
+https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv156
+#EXTINF:-1 tvg-id="387" tvg-name="VOA美國之音" tvg-logo="http://192.168.6.3/tv/TVlogo/img/VOATV.png" group-title="💰-新闻财经",VOA 美國之音
+https://haoyunlai.serv00.net/litv.php?id=litv-ftv03
+#EXTINF:-1 tvg-id="357" tvg-name="民視旅遊台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/FTV5.png" group-title="🐳-台湾",民視旅遊台
+https://haoyunlai.serv00.net/litv.php?id=litv-ftv07
+#EXTINF:-1 tvg-id="360" tvg-name="民視影劇台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/FTV4.png" group-title="🥤-影视",民視影劇台
+https://haoyunlai.serv00.net/litv.php?id=litv-ftv09
+#EXTINF:-1 tvg-id="386" tvg-name="半島國際新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/AlJazeera.png" group-title="💰-新闻财经",半島國際新聞台
+https://haoyunlai.serv00.net/litv.php?id=litv-ftv10
+#EXTINF:-1 tvg-id="173" tvg-name="民視新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/FTV1.png" group-title="💰-新闻财经",民視新聞台
+https://haoyunlai.serv00.net/litv.php?id=litv-ftv13
+#EXTINF:-1 tvg-id="250" tvg-name="i-Fun動漫台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/4gtv_015.png" group-title="🎒-儿童",i-Fun動漫台
+https://haoyunlai.serv00.net/litv.php?id=litv-ftv15
+#EXTINF:-1 tvg-id="388" tvg-name="好消息2台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoodTV2.png" group-title="🐳-台湾",好消息2台
+https://haoyunlai.serv00.net/litv.php?id=litv-ftv16
+#EXTINF:-1 tvg-id="388" tvg-name="好消息2台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/GoodTV2.png" group-title="🐳-台湾",好消息2台
+https://haoyunlai.serv00.net/litv.php?id=litv-ftv17
+#EXTINF:-1 tvg-id="514" tvg-name="龍華卡通台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/LTV9.png" group-title="🎒-儿童",龍華卡通台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn01
+#EXTINF:-1 tvg-id="334" tvg-name="龍華電影台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/4gtv_003.png" group-title="🥤-影视",龍華電影台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn03
+#EXTINF:-1 tvg-id="506" tvg-name="博斯魅力台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/sportcast6.png" group-title="🥇-运动",博斯魅力台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn04
+#EXTINF:-1 tvg-id="277" tvg-name="博斯高球一台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/sportcast3.png" group-title="🥇-运动",博斯高球一台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn05
+#EXTINF:-1 tvg-id="278" tvg-name="博斯高球二台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/sportcast4.png" group-title="🥇-运动",博斯高球二台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn06
+#EXTINF:-1 tvg-id="275" tvg-name="博斯運動一台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/sportcast1.png" group-title="🥇-运动",博斯運動一台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn07
+#EXTINF:-1 tvg-id="276" tvg-name="博斯運動二台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/sportcast2.png" group-title="🥇-运动",博斯運動二台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn08
+#EXTINF:-1 tvg-id="274" tvg-name="博斯網球台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/sportcast5.png" group-title="🥇-运动",博斯網球台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn09
+#EXTINF:-1 tvg-id="272" tvg-name="博斯無限二台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/sportcast8.png" group-title="🥇-运动",博斯無限二台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn10
+#EXTINF:-1 tvg-id="365" tvg-name="龍華日韓台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/LTV5.png" group-title="🥤-影视",龍華日韓台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn11
+#EXTINF:-1 tvg-id="513" tvg-name="龍華偶像台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/LTV6.png" group-title="🥤-影视",龍華偶像台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn12
+#EXTINF:-1 tvg-id="272" tvg-name="博斯無限二台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/sportcast8.png" group-title="🥇-运动",博斯無限二台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn13
+#EXTINF:-1 tvg-id="291" tvg-name="寰宇新聞台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/Global2.png" group-title="💰-新闻财经",寰宇新聞台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn14
+#EXTINF:-1 tvg-id="292" tvg-name="寰宇新聞台灣台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/Global3.png" group-title="💰-新闻财经",寰宇新聞台灣台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn15
+#EXTINF:-1 tvg-id="260" tvg-name="亞洲旅遊台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/Asiatravel.png" group-title="🐳-台湾",亞洲旅遊台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn17
+#EXTINF:-1 tvg-id="331" tvg-name="龍華戲劇台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/LTV4.png" group-title="🥤-影视",龍華戲劇台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn18
+#EXTINF:-1 tvg-id="507" tvg-name="Smart知識台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/smarttv.png" group-title="🛰️-人文自然科学",Smart 知識台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn19
+#EXTINF:-1 tvg-id="202" tvg-name="ELTV生活英語台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ELTA7.png" group-title="🎒-儿童",ELTV生活英語台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn20
+#EXTINF:-1 tvg-id="508" tvg-name="龍華經典台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/LTV7.png" group-title="🥤-影视",龍華經典台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn21
+#EXTINF:-1 tvg-id="505" tvg-name="台灣戲劇台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/litv-longturn22.png" group-title="🥤-影视",台灣戲劇台
+https://haoyunlai.serv00.net/litv.php?id=litv-longturn22
