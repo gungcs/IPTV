@@ -1,15 +1,19 @@
 {
      "lives": [
           {
+               "name": 范明明",
+               "url": https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+          },
+          {
                "name": "SMT",
                "boot": false,
                "pass": true,
                "url": "https://raw.githubusercontent.com/gungcs/IPTV/master/smt.txt",
                "logo": "https://live.fanmingming.com/tv/{name}.png"
                "header": {
-                   "CLIENT-IP":"127.0.1",
+                   "CLIENT-IP":"127.0.0.1",
                    "X-FORWARDED-FOR":
-"127.0.1"
+"127.0.0.1"
               }
           }
      ]
