@@ -1,0 +1,16 @@
+{
+     "lives":[
+          {
+              "name":"SMT",
+              "boot":false,
+              "pass":true,
+              "url":"https://t4.doube.eu.org/smt.txt",
+              "logo":"https://live.fanmingming.com/tv/{name}.png"
+              "header":{
+                  "CLIENT-IP":"127.0.1",
+                  "X-FORWARDED-FOR":
+"127.0.1"
+              }
+          }
+     ]
+}
