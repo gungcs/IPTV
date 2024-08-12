@@ -1,5 +1,3 @@
-Headers={'CLIENT-IP':'127.0.0.1','X-FORWARDED-FOR':'127.0.0.1'}
-
 臺灣 Taiwan,#genre#
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=eb2e561779222434cac30788692a0ec5
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5c379210cdedef89ff64b4a180d7230e
