@@ -1,7 +1,6 @@
 {
      "lives":[
           {
-          
                "name": "SMT",
                "boot": false,
                "pass": true,
