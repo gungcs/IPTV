@@ -12,8 +12,7 @@
                "logo": "https://live.fanmingming.com/tv/{name}.png"
                "header": {
                    "CLIENT-IP":"127.0.0.1",
-                   "X-FORWARDED-FOR":
-"127.0.0.1"
+                   "X-FORWARDED-FOR": "127.0.0.1"
               }
           }
      ]
