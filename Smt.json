@@ -4,7 +4,7 @@
               "name":"SMT",
               "boot":false,
               "pass":true,
-              "url":"https://t4.doube.eu.org/smt.txt",
+              "url":"https://raw.githubusercontent.com/gungcs/IPTV/master/smt.txt",
               "logo":"https://live.fanmingming.com/tv/{name}.png"
               "header":{
                   "CLIENT-IP":"127.0.1",
