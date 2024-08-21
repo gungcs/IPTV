@@ -1,0 +1,25 @@
+{
+    "sites": [
+        {
+            "key": "heimuer",
+            "name": "黑木耳",
+            "type": 1,
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+            }
+        },
+        {
+            "key": "haiwaiba",
+            "name": "华为吧",
+            "type": 1,
+            "api": "https://cjhwba.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        }
+    ]
+}
